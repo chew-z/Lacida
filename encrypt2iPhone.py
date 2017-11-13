@@ -88,11 +88,7 @@ class AESCipher(object):
 
 
 def read_from_clipboard():
-    if sys.version_info >= (3, 0):
-        return subprocess.getoutput('pbpaste')
-    else:
-        import commands
-        return commands.getoutput('pbpaste')
+    return subprocess.getoutput('pbpaste')
 
 
 def get_keychain_pass(account=None, server=None):
