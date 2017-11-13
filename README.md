@@ -4,9 +4,9 @@
 
 In short it is private and secure way of sending messages from Mac (or not Mac) to iPhone. I am sending to my own iPhone in this case but you can send messages to friends etc.
 
-No 3-rd party aka Apple or Facebook involved and no backdoors open to state agents. Just Python code that you can verify yourself...
+No 3-rd party aka Apple or Facebook involved and no backdoors open to state agents. Just pure Python code that you can verify for yourself...
 
-It is encrypting a file with AES, putting encrypted ile on Google Drive and sending Pushover notification with link to Editorial workflow that will get encrypted file from GDrive and decrypt.
+It is encrypting a file with AES, putting encrypted file on Google Drive and sending Pushover notification with link to Editorial workflow that will get encrypted file from GDrive and decrypt.
 
 * You will need [Editorial app on iPhone](http://omz-software.com/editorial/) (it is a note-taking app with Python support)
 
