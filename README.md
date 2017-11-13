@@ -1,6 +1,6 @@
 # Lacida [^1]
 
-_Send private, encrypted messages from Mac to iPhone_
+**Send private, encrypted messages from Mac to iPhone**
 
 In short it is private and secure way of sending messages from Mac (or not Mac) to iPhone. I am sending to my own iPhone in this case but you can send messages to friends etc.
 
@@ -31,4 +31,4 @@ security add-internet-password -a 'Python' -s 'pushover.net' -w 'MY APPLICATION 
 
 Review encrypt2iPhone.py and fill in the gaps (device name) if you need.
 
-[1] Lacida was a name of Polish reverse engineered copy of German Enigma encryption device made in 1933 and used for decrypting Enigma messages (before Enigma added another level of complication). Name is a short of colonel _La_nger, lieutenat _Ci_ężki and engineer _Da_nilewicz.
+[1] Lacida was a name of Polish reverse engineered copy of German Enigma encryption device made in 1933 and used for decrypting Enigma messages (before Enigma added another level of complication). Name is a short of colonel Langer, lieutenat Ciężki and engineer Danilewicz.
