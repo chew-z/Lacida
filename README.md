@@ -31,4 +31,6 @@ security add-internet-password -a 'Python' -s 'pushover.net' -w 'MY APPLICATION 
 
 Review encrypt2iPhone.py and fill in the gaps (device name) if you need.
 
+I have made simple Automator service that encrypts and sends selected file. Simple.
+
 [1] Lacida was a name of Polish reverse engineered copy of German Enigma encryption device built in 1933 and used for decrypting Enigma messages until 1939. Name is a short of colonel Langer, lieutenat Ciężki and engineer Danilewicz.
